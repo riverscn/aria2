@@ -7,7 +7,7 @@ RUN apk update && \
 	mkdir -p /conf && \
 	mkdir -p /conf-copy && \
 	mkdir -p /data && \
-	apk add --no-cache --update aria2 && \
+	apk add --no-cache --update aria2
 	
 ADD files/start.sh /conf-copy/start.sh
 ADD files/aria2.conf /conf-copy/aria2.conf
