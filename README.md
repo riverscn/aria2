@@ -1,4 +1,4 @@
-Aria2 with webui
+Pure Aria2
 ---
 Only 17Mb. Inspired by XUJINKAI.
 
