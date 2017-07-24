@@ -15,11 +15,11 @@ sudo docker run -d \
 -v /DOWNLOAD_DIR:/data \
 -v /CONFIG_DIR:/conf \
 -e SECRET=YOUR_SECRET_CODE \
-xujinkai/aria2-with-webui
+riverscn/aria2
 ```
 
 ### Build:  
-`sudo docker build -f Dockerfile -t xujinkai/aria2-with-webui .`  
+`sudo docker build -f Dockerfile -t riverscn/aria2 .
 
 ### Link:  
 https://github.com/aria2/aria2  
