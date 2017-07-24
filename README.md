@@ -1,6 +1,6 @@
 Aria2 with webui
 ---
-Only 58Mb.  
+Only 17Mb. Inspired by XUJINKAI
 Edit config file out of the image.  
 Move file completed to another folder.  
 (Tasks that contains more than one files will not be moved.)  
