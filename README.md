@@ -10,7 +10,7 @@ Move file completed to another folder.
 I. replace **/DOWNLOAD_DIR** and **/CONFIG_DIR** for save data, and **YOUR_SECRET_CODE** for security. Run command below  
 ```
 sudo docker run -d \
---name aria2-with-webui \
+--name aria2 \
 -p 6800:6800 \
 -v /DOWNLOAD_DIR:/data \
 -v /CONFIG_DIR:/conf \
